@@ -14,6 +14,7 @@ Ziel ist es, einen Roboterbausatz inklusive Raspberry Pi zusammenzusetzen und mi
 Mögliche Zusatzziele:
   - der Spinne ein Tänzchen beibringen
   - die LED der Spinne zum Morsen benutzen
+    - https://www.adeept.com/video/detail-63.html
   - ...
 
 
