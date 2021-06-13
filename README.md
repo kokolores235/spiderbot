@@ -24,3 +24,5 @@ Mögliche Zusatzziele:
 20210613 12:54 schwarzrot: - statt Portfreigabe über den Router wird "pitunnel.com" benutzt
                                - Zugriff in verschiedenen Wlan Umgebungen möglich ohne jeweilige Portfreigabe
                            - zwei neue Nutzer angelegt
+         22:52 schwarzrot: - Tp-link USB Wifi installiert, uff...
+         
