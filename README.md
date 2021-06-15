@@ -26,3 +26,4 @@ Mögliche Zusatzziele:
                            - zwei neue Nutzer angelegt
          22:52 schwarzrot: - Tp-link USB Wifi installiert, uff...
          
+20210615 08:53 sxhwarzrot: - kalibrierung der Servos - siehe Video
