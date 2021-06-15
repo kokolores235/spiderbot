@@ -27,4 +27,5 @@ Mögliche Zusatzziele:
          22:52 schwarzrot: - Tp-link USB Wifi installiert, uff...
          
 20210615 08:53 schwarzrot: - kalibrierung der Servos - siehe Video
+
          12:00 schwarzrot: - er lebt :)
